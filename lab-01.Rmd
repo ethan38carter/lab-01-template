@@ -202,7 +202,7 @@ summarise(mean_2021 = mean(n_2021), na.rm = TRUE)
 
 _Observe in question 6 that the mean statistics across all settings are much larger than the corresponding median statistics. Discuss in your group what this suggests about the data._
 
-**Write your answer here**
+Across all settings, there are much more attractions with lower visitor numbers than with very high numbers so the median is skewed downwards.
 
 ## Question 8
 
